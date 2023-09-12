@@ -12,7 +12,7 @@
 
 <img src="./img/hw02.png" style= "float:left; width:400px">
 
- :computer: [정답 코드](~/week1/hw02.c)<br>
+ :computer: [정답 코드](../hw02.c)<br>
 
 ---
 
@@ -20,7 +20,7 @@
 
 <img src="./img/hw03.png" style= "float:left; width:300px">
 
-:computer: [정답 코드](~/week1/hw03.c)<br>
+:computer: [정답 코드](../hw03.c)<br>
 
 ---
 
@@ -28,7 +28,7 @@
 
 <img src="./img/hw04.png" style= "float:left; width:350px">
 
-:computer: [정답 코드](~/week1/hw04.c)<br>
+:computer: [정답 코드](../hw04.c)<br>
 
 ---
 
@@ -36,7 +36,7 @@
 
 <img src="./img/hw05.png" style= "float:left; width:300px">
 
-:computer: [정답 코드](~/week1/hw05.c)<br>
+:computer: [정답 코드](../hw05.c)<br>
 
 ---
 
@@ -44,7 +44,7 @@
 
 <img src="./img/hw06.png" style= "float:left; width:300px">
 
-:computer: [정답 코드](~/week1/hw06.c)<br>
+:computer: [정답 코드](../hw06.c)<br>
 
 ---
 
@@ -52,7 +52,7 @@
 
 <img src="./img/hw07.png" style= "float:left; width:300px">
 
-:computer: [정답 코드](~/week1/hw07.c)<br>
+:computer: [정답 코드](../hw07.c)<br>
 
 ---
 
@@ -60,7 +60,7 @@
 
 <img src="./img/hw08.png" style= "float:left; width:500px">
 
-:computer: [정답 코드](~/week1/hw08.c)<br>
+:computer: [정답 코드](../hw08.c)<br>
 
 ---
 
@@ -68,7 +68,7 @@
 
 <img src="./img/hw09.png" style= "float:left; width:300px">
 
-:computer: [정답 코드](~/week1/hw09.c)<br>
+:computer: [정답 코드](../hw09.c)<br>
 
 ---
 
@@ -76,7 +76,7 @@
 
 <img src="./img/hw10.png" style= "float:left; width:300px">
 
-:computer: [정답 코드](~/week1/hw10.c)<br>
+:computer: [정답 코드](../hw10.c)<br>
 
 ---
 
@@ -84,7 +84,7 @@
 
 <img src="./img/hw11.png" style= "float:left; width:300px">
 
-:computer: [정답 코드](~/week1/hw11.c)<br>
+:computer: [정답 코드](../hw11.c)<br>
 
 ---
 
@@ -93,7 +93,7 @@
 
 <img src="./img/hw12.png" style= "float:left; width:300px">
 
-:computer: [정답 코드](~/week1/hw12.c)<br>
+:computer: [정답 코드](../hw12.c)<br>
 
 ---
 
@@ -102,7 +102,7 @@
 
 <img src="./img/hw13.png" style= "float:left; width:300px">
 
-:computer: [정답 코드](~/week1/hw13.c)<br>
+:computer: [정답 코드](../hw13.c)<br>
 
 ---
 
@@ -111,7 +111,7 @@
 
 <img src="./img/hw14.png" style= "float:left; width:300px">
 
-:computer: [정답 코드](~/week1/hw14.c)<br>
+:computer: [정답 코드](../hw14.c)<br>
 
 ---
 
@@ -120,6 +120,6 @@
 
 <img src="./img/hw15.png" style= "float:left; width:300px">
 
-:computer: [정답 코드](~/week1/hw15.c)<br>
+:computer: [정답 코드](../hw15.c)<br>
 
 ---
