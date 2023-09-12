@@ -4,7 +4,7 @@
 
 <img src="./img/hw01.png" style= "float:left; width:300px">
 
-:computer: [정답 코드](~/week1/hw01.c)<br>
+:computer: [정답 코드](../hw01.c)<br>
 
 ---
 
